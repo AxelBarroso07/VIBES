@@ -4,3 +4,11 @@ Nicolás: Crear Base de datos y todo lo que conlleva su configuración
 Luciana: Crear estructura basica HTML utilizando etiquetas semanticas. index.html
 Axel: Crear CRUD en php.
 
+
+
+
+
+
+
+
+NICO: Añadida tabla usuarios.sql a los archivos. La tabla se deberia llamar "vibesdb".
