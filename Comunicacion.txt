@@ -1,0 +1,6 @@
+*QUE HACERES*
+
+Nicolás: Crear Base de datos y todo lo que conlleva su configuración
+Luciana: Crear estructura basica HTML utilizando etiquetas semanticas. index.html
+Axel: Crear CRUD en php.
+
